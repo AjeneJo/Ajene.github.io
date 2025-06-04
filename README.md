@@ -63,3 +63,49 @@ Prioritize student mental health initiatives.
 Adapt academic strategies to improve student well-being during and after online learning transitions.
 
 ![Health](https://github.com/AjeneJo/Ajene.github.io/blob/main/Student%20Mental%20Health%20Dashboard%20New.PNG)
+
+# Project 2
+
+**Title:** [Addiction Population Dashboard](https://github.com/AjeneJo/Ajene.github.io/blob/main/Addiction%20Population%20Data%201.xlsx)
+
+**Tools Used:** Advanced Microsoft Excel (Pivot table, Pivot charts, Slicers, Timeline)
+
+**Project Description:** This project analyzed population data related to addiction, mental health, physical wellness, and socioeconomic factors. The primary objective was to identify correlations between 
+
+behavioral health and addiction patterns such as smoking and drinking, and to explore how demographic and lifestyle factors influence recovery outcomes.
+
+The interactive dashboard was developed to help healthcare professionals, policymakers, and researchers explore the underlying factors driving addiction severity, therapy effectiveness, and mental health 
+
+status.
+
+**Key findings:** Mental Health & Addiction: Individuals with poorer mental health status tend to show higher smoking and drinking addiction levels.
+
+Lifestyle Impact: Better sleep, regular exercise, and a healthy BMI correlate with reduced addiction scores.
+
+Income & Employment Links: Unemployed individuals and those with lower income levels showed higher addiction tendencies.
+
+Therapy Effectiveness: Those with a history of therapy had slightly lower addiction levels and higher attempts to quit.
+
+Geographic Trends: Certain cities and countries showed disproportionately high addiction levels, indicating regional disparities.
+
+**Dashboard Overview:** The dashboard features several analytical views, including:
+
+Mental Health Status vs. Smoking and Drinking Addiction
+
+Correlation of BMI, Sleep, and Exercise with Addiction Scores
+
+Income and Employment vs. Addiction Severity
+
+Therapy History and Recovery Attempts
+
+Country & City-wise Addiction Mapping
+
+**Impact:** This dashboard serves as a decision-support tool for:
+
+Public health officials targeting interventions by location and demographic.
+
+Researchers studying behavioral health determinants.
+
+Healthcare planners designing therapy and awareness campaigns based on evidence.
+
+![Addiction](https://github.com/AjeneJo/Ajene.github.io/blob/main/Addiction%20Dashboard.PNG)
