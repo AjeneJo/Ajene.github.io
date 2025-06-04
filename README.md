@@ -109,3 +109,34 @@ Researchers studying behavioral health determinants.
 Healthcare planners designing therapy and awareness campaigns based on evidence.
 
 ![Addiction](https://github.com/AjeneJo/Ajene.github.io/blob/main/Addiction%20Dashboard.PNG)
+
+# Project 3
+
+**Title:** Work Place Safety Data
+
+**SQL Code:** [Work Place Safety SQL Code](https://github.com/AjeneJo/Ajene.github.io/blob/main/Work_Place_Data.sql)
+
+**SQL Skills Used:** Data Retrieval (SELECT): Queried specific fields and created custom result sets for insights on costs, days lost, and incident counts.
+
+Data Aggregation (SUM, COUNT, AVG, MAX): Calculated total and average incident costs, days lost, and frequencies by plant, department, and incident type.
+
+Data Filtering (WHERE, IN, BETWEEN, AND, OR): Extracted relevant subsets of data, such as “Lost Time” incidents or specific age groups affected by certain hazards.
+
+Grouping and Categorization (GROUP BY): Analyzed incident trends grouped by year, shift, report type, gender, and injury location.
+
+Sorting and Ranking (ORDER BY, LIMIT): Identified top incident types, highest-cost cases, and months with peak incident counts.
+
+Date and Time Handling: Leveraged YEAR and MONTH fields to generate time-series reports.
+
+Aliases and Naming (AS): Cleaned output presentation with readable column names for use in dashboards and exports.
+
+**Project Description:** Developed a comprehensive SQL-driven analysis of workplace incident data to uncover patterns in safety incidents across departments, 
+
+shifts, plants, and demographic groups. The project supported safety strategy improvements by identifying high-risk areas, costly incidents, and common injury 
+
+causes.
+
+**Technology used: SQL server:**
+
+**Outcome:** Enabled data-driven safety interventions and risk assessments. The dashboard provided stakeholders with clear visibility into operational safety
+performance, allowing proactive measures to reduce future incidents and costs.
