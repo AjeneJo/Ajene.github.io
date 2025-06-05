@@ -140,3 +140,50 @@ causes.
 
 **Outcome:** Enabled data-driven safety interventions and risk assessments. The dashboard provided stakeholders with clear visibility into operational safety
 performance, allowing proactive measures to reduce future incidents and costs.
+
+# Project 4
+
+**Title:** Insurance Risk Coverage and Policy Distribution
+
+**SQL Code:** [Insurance Policy Coverage](https://github.com/AjeneJo/Ajene.github.io/blob/main/Insurance_Data.sql)
+
+**SQL Skills Used:** Data Aggregation (SUM, COUNT, AVG), Filtering (WHERE, AND, OR), Grouping (GROUP BY) Sorting (ORDER BY), Distinct Value Extraction (DISTINCT) Conditional Logic Date Range Analysis (MIN, 
+
+MAX). Data Retrieval (SELECT): Queried and extracted specific information from the database. Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data 
+
+trends.
+
+Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
+
+Data Source Specification (FROM): Specified the tables used as data sources for retrieval
+
+**Project Description:** In this project, I explored a dataset of insurance policy records to analyze risk exposure, coverage trends, and value concentration by location and policy type. The queries focused 
+
+on identifying high-insured-value areas, coverage frequency for risks like earthquakes and floods, and the distribution of policy types across states and regions. The outcomes enabled actionable 
+
+recommendations for risk mitigation strategies, policy restructuring, and regional insurance planning.
+
+**Technology used:** SQL server
+
+# Project 5
+
+**Title:** Office Supply Sales Data Insights & Performance Trends
+
+**SQL Code:** [Office Supply Sales Insights](https://github.com/AjeneJo/Ajene.github.io/blob/main/Office_Supply_Sales_Insight.sql)
+
+**SQL Skills Used:** Data Retrieval (SELECT): Queried and extracted specific information from the database. Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records 
+
+to analyze data trends. Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists. Data Source Specification (FROM): Specified the tables used 
+
+as data sources for retrieval. Data Retrieval (SELECT) Filtering (WHERE, IN, BETWEEN) Aggregation (SUM, COUNT, AVG) Sorting (ORDER BY) Grouping (GROUP BY) Pattern Matching (LIKE) Date Functions (YEAR, MONTH)
+
+Joining Columns & Basic Calculations.
+
+**Project Description:** This project involved analyzing office supply sales data to extract insights on product performance, sales region dynamics, and representative activity. Using SQL queries, I explored 
+
+the dataset to answer business-relevant questions such as identifying top-selling items, high-revenue regions, and seasonal trends. The analysis also revealed sales representatives with the highest total 
+
+sales and products with the highest unit cost. These insights support better inventory planning, sales forecasting, and targeted business decisions.
+
+**Technology used:** SQL server
+
