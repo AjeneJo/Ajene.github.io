@@ -1,4 +1,4 @@
-How many Incidents occurred at each plant?
+ How many Incidents occurred at each plant?
 
  SELECT Plant, Count(*) AS Incident_Count
  FROM[dbo].['Workplace Safety Data$']
@@ -36,7 +36,7 @@ How many Incidents occurred at each plant?
  GROUP BY [Age Group]
  ORDER BY Incident_Count DESC
 
-How many incidents were reported as 'Lost Time' by each plant?
+ How many incidents were reported as 'Lost Time' by each plant?
 
  SELECT Plant, COUNT(*) AS Lost_Time_Incidents
  FROM [dbo].['Workplace Safety Data$']
