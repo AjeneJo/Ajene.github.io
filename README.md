@@ -62,7 +62,7 @@ Prioritize student mental health initiatives.
 
 Adapt academic strategies to improve student well-being during and after online learning transitions.
 
-![Health](https://github.com/AjeneJo/Ajene.github.io/blob/main/Student%20Mental%20Health%20Dashboard%20New.PNG)
+![Health](Health.PNG)
 
 # Project 2
 
@@ -108,7 +108,7 @@ Researchers studying behavioral health determinants.
 
 Healthcare planners designing therapy and awareness campaigns based on evidence.
 
-![Addiction](https://github.com/AjeneJo/Ajene.github.io/blob/main/Addiction%20Dashboard.PNG)
+![Addiction](Addiction.PNG)
 
 # Project 3
 
