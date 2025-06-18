@@ -4,11 +4,21 @@
 
 **Tools Used:** Advanced Microsoft Excel (Pivot table, Pivot charts, Slicers, Timeline)
 
-**Project Description:** This project focused on analyzing student mental health data collected during online learning. The aim was to uncover behavioral, emotional, and lifestyle factors that impact student 
+**Project Description:** This project focused on analysing student mental health data collected during the shift to online learning. The goal was to identify behavioral, emotional, and lifestyle factors impacting student well being and academic performance. Insights were designed to support educators, counsellors, and policy leaders in making informed decisions on mental health interventions.
 
-well-being and academic performance. The analysis was designed to inform educators, counselors, and academic institutions about trends in stress, screen time, physical activity, sleep patterns, and therapy impact.
+**Key Insights:**
 
-The dashboard includes interactive features that allow stakeholders to:
+*High Screen Time=High Stress:* Students with elevated stress levels recorded significantly higher screen time.
+
+*Physiscal Activity Reduced:* Regular activity was linked to improved academic performance and lower stress.
+
+*Gender-Based sleep patterns:* Sleep duration and screen time varied notably accross gender and education levels.
+
+*Exam Anxiety Widespread:* Prevalent accross several demographics, especially in older age groups or higher academic tiers.
+
+*Need for Support:* A majority reported moderate stress, with a significant portion showing high stress—indicating a need for targeted support systems.
+
+*The dashboard includes interactive features that allow stakeholders to:*
 
 Compare average screen time across different stress levels and education groups.
 
@@ -20,6 +30,8 @@ Assess the prevalence of exam anxiety across various demographics.
 
 Understand the distribution of stress levels among the student population.
 
+**Interactive Filters:** Gender | Age Group | Education Level | Mental Health Status | Therapy History | Physical Activity Level
+
 **Key findings:** High Stress Linked to Screen Time: Students with higher stress levels spent significantly more time on screens.
 
 Physical Activity Helps: Regular physical activity correlated with reduced stress and better academic performance.
@@ -30,7 +42,7 @@ Exam Anxiety Prevalence: A notable number of students experienced pre-exam anxie
 
 Stress Patterns: Most students reported moderate stress levels, with a sizable percentage reporting high stress, suggesting the need for well-being support systems.
 
-**Dashboard Overview:** The dashboard includes the following key visualizations:
+**Dashboard Overview:** *The dashboard includes the following key visualizations:*
 
 Average Screen Time by Stress Level and Academic Performance
 
@@ -41,26 +53,18 @@ Sleep & Screen Time by Gender and Education Level
 Exam Anxiety Distribution Across Demographics
 
 Stress Level Distribution (Pie/Bar Chart)
-Interactive Slicers
-Gender
 
-Age Group
-
-Education Level
-
-Mental Health Status
-
-Therapy History
-
-Physical Activity Level
-
-**Impact:** This dashboard empowers educators, mental health professionals, and policymakers to:
+**Impact:** *This dashboard enables stakeholders to:*
 
 Make informed decisions based on behavioral patterns.
 
 Prioritize student mental health initiatives.
 
 Adapt academic strategies to improve student well-being during and after online learning transitions.
+
+Monitor behavioural patterns affecting student wellbeing.
+
+Prioritise mental health initiatives and early intervention.
 
 ![Health](Health.PNG)
 
