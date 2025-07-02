@@ -191,3 +191,62 @@ sales and products with the highest unit cost. These insights support better inv
 
 **Technology used:** SQL server
 
+# Project 6
+
+**Title:** NHS Delayed Transfer of Care
+
+**Tools Used:** Power BI – for interactive dashboard creation and data visualisation
+
+Advanced Microsoft Excel – for data cleaning, preparation and analysis
+
+DAX (Data Analysis Expressions) – for calculated fields and measures
+
+Data Modelling Techniques – to build relationships between datasets
+
+**Project Description:** This project analyses delayed transfers of care (DTOC) in hospitals across 2024, with a focus on discharge patterns, delay causes, and responsible bodies. The aim is to identify key bottlenecks in hospital discharge processes, evaluate the length and reasons for delays, and provide actionable insights for NHS and social care services to improve patient flow and service efficiency.
+
+The dataset includes variables such as:
+
+Admission and discharge dates
+
+Expected discharge dates
+
+Reasons for discharge delays
+
+Responsible bodies (NHS, Social Care, or Both)
+
+Final discharge destinations (e.g., Home, Care Home)
+
+**Key findings:** Total Length of Delay across all discharges was 984 days, indicating considerable impact on hospital bed availability.
+
+Top Delay Reason: “Awaiting further non-acute NHS care” had the highest frequency of delays, followed by delays for nursing home placements and housing issues.
+
+Discharge Destinations: Most patients were discharged to Sheltered Housing (32%), followed by Reablement Services (26%) and Home (22%).
+
+Responsible Bodies:
+
+NHS accounted for 359 delay days, marginally higher than Social Care with 356 days.
+
+Cases involving both bodies combined contributed 269 delay days, indicating the need for improved joint coordination.
+
+**Dashboard Overview:** This Power BI dashboard provides a comprehensive performance insight 
+into hospital discharges in 2024. It includes:
+
+Filters for discharge date, reason for delay, and responsible body.
+
+KPI Cards showing the earliest admission/expected discharge dates and total delay days.
+
+Bar Charts detailing:
+
+Admissions by reason for delay
+
+Length of delay by responsible body
+
+Pie Chart displaying discharge destinations proportionally.
+
+Interactive Tiles for discharge destination filters.
+
+The dashboard enables hospital administrators and care coordinators to monitor delay trends, evaluate accountability, and prioritise interventions that reduce hospital stay durations and optimise patient care transitions.
+
+![Discharges](Discharges.png)
+
