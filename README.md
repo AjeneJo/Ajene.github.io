@@ -251,12 +251,62 @@ The dashboard enables hospital administrators and care coordinators to monitor d
 
 # Project 7
 
-**Title:** Nexia Financial Report 2024
+**Title:** [Nexia Financial Report 2024](https://github.com/AjeneJo/Ajene.github.io/blob/main/Nexia%20Superstore.xlsx)
 
-**Tools Used:** 
+**Tools Used:** Power BI – for dashboard development, data modelling, and interactive visualisation
 
-**Project Description:**
+Microsoft Excel – for dataset preparation and transformation
 
-**Key findings:**
+DAX (Data Analysis Expressions) – to create dynamic KPIs and calculated insights
 
-**Dashboard Overview:**
+Power Query Editor – for data cleaning and merging operations
+
+**Project Description:** This project presents a financial overview of Nexia Superstore’s performance in 2024. The aim was to analyse sales trends, profit distribution, and product quantity sold across cities, segments, and shipping modes. The visual report supports strategic business decisions by providing insights into regional performance, profitability, and customer segmentation.
+
+The dataset covers:
+
+Sales and Profit metrics
+
+City-wise product distribution
+
+Ship Mode and Segment-based breakdowns
+
+Sub-category filtering for focused analysis
+
+**Key findings:** Total Sales amounted to £2.30M, with a Total Profit of £286.40K from 9,994 items sold.
+
+Top Performing City: New York City recorded the highest quantity sold (915 units), followed by Los Angeles (747 units).
+
+Most Profitable Ship Mode:
+
+Standard Class accounted for £164.09K (57.29%) of total profit.
+
+This was followed by First Class (£57.45K, 20.06%) and Second Class (£48.97K, 17.1%).
+
+Sales by Segment: Consumer segment led in total sales, outperforming Corporate and Home Office.
+
+Least Profitable Mode: Same Day shipping had the lowest share of profit at £15.89K (5.55%), suggesting a need for cost review in this area.
+
+**Dashboard Overview:** The dashboard includes the following key components:
+
+KPI Tiles: Displaying total sales, total profit, and total quantity
+
+Pie Chart: Profit distribution by shipping mode
+
+Bar Charts:
+
+Total quantity by top cities
+
+Total sales by customer segment
+
+Interactive Filters:
+
+Sub-category filter for granular analysis
+
+Ship mode slicers to examine performance across delivery types
+
+This Power BI report enables business leaders to evaluate profitability drivers, optimise shipping strategies, and prioritise high-performing customer segments and regions.
+
+![NEXIA](NEXIA.png)
+
+
