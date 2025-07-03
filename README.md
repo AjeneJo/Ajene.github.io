@@ -193,7 +193,7 @@ sales and products with the highest unit cost. These insights support better inv
 
 # Project 6
 
-**Title:** NHS Delayed Transfer of Care
+**Title:** [NHS Delayed Transfer of Care](https://github.com/AjeneJo/Ajene.github.io/blob/main/NHS_Delayed_Transfers_of_Care.xlsx)
 
 **Tools Used:** Power BI – for interactive dashboard creation and data visualisation
 
@@ -229,8 +229,7 @@ NHS accounted for 359 delay days, marginally higher than Social Care with 356 da
 
 Cases involving both bodies combined contributed 269 delay days, indicating the need for improved joint coordination.
 
-**Dashboard Overview:** This Power BI dashboard provides a comprehensive performance insight 
-into hospital discharges in 2024. It includes:
+**Dashboard Overview:** This Power BI dashboard provides a comprehensive insight into NHS delayed transfer of care in 2024. It includes:
 
 Filters for discharge date, reason for delay, and responsible body.
 
@@ -246,7 +245,18 @@ Pie Chart displaying discharge destinations proportionally.
 
 Interactive Tiles for discharge destination filters.
 
-The dashboard enables hospital administrators and care coordinators to monitor delay trends, evaluate accountability, and prioritise interventions that reduce hospital stay durations and optimise patient care transitions.
+The dashboard enables hospital administrators and care coordinators to monitor delay trends, evaluate accountability, and prioritise interventions that will reduce hospital stay durations and optimise patient care transitions.
 
-![Discharges](Discharges.png)
+![NHS](NHS.png)
 
+# Project 7
+
+**Title:** Nexia Financial Report 2024
+
+**Tools Used:** 
+
+**Project Description:**
+
+**Key findings:**
+
+**Dashboard Overview:**
